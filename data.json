@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "kunal yadav",
+      "password": "kunal",
+      "email": "ykunal837@gmail.com"
+    },
+    {
+      "name": "kunal Yadav",
+      "password": "kujsl",
+      "email": "ykunal123@gmail.com",
+      "id": 2
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "task": "something"
+    },
+    {
+      "task": "hello",
+      "id": 2
+    },
+    {
+      "task": "sgvjbjhb",
+      "id": 3
+    },
+    {
+      "task": "nbnmbmbv",
+      "id": 4
+    }
+  ]
+}
